@@ -121,7 +121,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg">Adresse</h3>
-                    <p className="text-muted-foreground mt-1">Nador, Maroc</p>
+                    <p className="text-muted-foreground mt-1">Marrakech, Maroc</p>
                   </div>
                 </CardContent>
               </Card>

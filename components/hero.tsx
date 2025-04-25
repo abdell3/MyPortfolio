@@ -65,7 +65,7 @@ export default function Hero() {
                 </Link>
               </Button>
               <Button asChild variant="outline" size="lg" className="rounded-full">
-                <Link href="/cv-abdellah-addar.pdf" target="_blank" download>
+                <Link href="/CV-Abdellah-Addar.pdf" target="_blank" download>
                   Télécharger CV <Download className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
@@ -104,7 +104,7 @@ export default function Hero() {
                 <div className="w-full h-full rounded-full overflow-hidden bg-background p-1">
                   <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-br from-primary/10 to-blue-500/10">
                     <img
-                      src="/placeholder.svg?height=400&width=400"
+                      src="/profile.jpg?height=400&width=400"
                       alt="Abdellah Addar"
                       className="w-full h-full object-cover rounded-full"
                     />
